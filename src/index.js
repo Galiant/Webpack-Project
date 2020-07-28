@@ -1,3 +1,3 @@
 const $ = require("jquery");
 
-$("#target").html("Hello World!");
+$("#target").html("Hello There!");
