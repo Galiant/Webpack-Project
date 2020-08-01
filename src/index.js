@@ -11,4 +11,4 @@ const Greeting = () => {
   );
 };
 
-render(<Greeting />, document.getElementById("target"));
+render(<Greeting />, document.getElementById("root"));
